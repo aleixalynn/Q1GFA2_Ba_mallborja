@@ -1,0 +1,45 @@
+.banner{
+    background-image: url(images/car.jpg);
+    height: 300px;
+    position: left;
+}
+
+.navbar{
+    text-align: center;
+    float: left;
+    width: 29px;
+    height: 55px;
+    position: absolute;
+    display: inline;
+}
+
+.anotherbar{
+    text-align: center;
+    left: 95%;
+    float: left;
+    width: 29px;
+    height: 55px;
+    position: absolute;
+    display: inline;
+}
+
+#links{
+    border: 1px solid rgb(255, 242, 216);
+}
+
+#links a {
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.header{
+    text-align: center;
+    border: 1px solid white;
+    left: 20%;
+    position: absolute;
+    width: 60%;
+}
+
+.images{
+    display: inline;
+}
